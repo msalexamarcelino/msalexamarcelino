@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexa Celine!
 
-<!--
-**msalexamarcelino/msalexamarcelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSIT Student | Aspiring IT Professional | Future Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 🎓 Bachelor of Science in Information Technology student
+- 🌱 Currently learning programming and application development
+- 💡 Interested in web development, databases, and technology
+- 🚀 Passionate about learning new skills and building projects
+
+## 🛠️ Technologies & Tools
+- HTML
+- CSS
+- Java
+- MySQL
+- GitHub
+- Figma
+
+## 📚 What I'm Currently Learning
+- Application Development
+- Object-Oriented Programming
+- Database Management
+- Software Development
+
+## 🎯 My Goal
+To continuously improve my technical skills and become a skilled IT professional.
+
+---
+*Thank you for visiting my profile!*
